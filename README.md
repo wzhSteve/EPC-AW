@@ -73,3 +73,12 @@ Number of candidate plans sampled during the planning phase.
 - --max_steps:
 Maximum execution steps per episode.
 
+## Citation
+```
+@inproceedings{wang2026epcaw,
+  title={When Planning Fails Despite Correct Execution: On Epistemic Calibration for LLM-Based Multi-Agent Systems},
+  author={Wang, Zehao and Jin, Shilong and Cao, Zhao and Wang, Lanjun},
+  booktitle={International Conference on Machine Learning (ICML)},
+  year={2026}
+}
+```
